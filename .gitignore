@@ -1,0 +1,6 @@
+.env
+*.secret
+*.pem
+kubeconfig
+node_modules/
+.DS_Store
